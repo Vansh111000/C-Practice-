@@ -50,7 +50,7 @@ typedef struct
 } student;
 
 //name:Vansh s kataria , Roll no :16010124145
-
+//Creating all the functions here
 void add(student *s)
 {
     printf("Enter the student ID: ");
