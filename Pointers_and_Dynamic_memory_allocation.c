@@ -9,7 +9,7 @@ o Add the student record to the database.
 2. Display All Students: 
 o Display the details of all students currently stored in the database. 
 3. Search for a Student by ID: 
-o Prompt the user to enter a Student ID. 
+o Prompt the user to enter a Student ID.  
 o Search the database for the student with the given ID. 
 o Display the student's details if found; otherwise, display a "Student not found" 
 message. 
