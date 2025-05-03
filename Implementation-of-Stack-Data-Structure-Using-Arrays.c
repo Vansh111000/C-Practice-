@@ -59,7 +59,7 @@ int pop()
         printf("Stack underflow!\n");
         return -1;
     }
-    return stack[top--];
+    return stack[top--]; 
 }
 
 int peek()
