@@ -79,6 +79,7 @@ void display()
     {
         printf("Stack is empty.\n");
         return;
+        //Name: Vansh S kataria , Roll no: 16010124145
     }
     printf("Stack: [");
     for (int i = 0; i <= top; i++)
