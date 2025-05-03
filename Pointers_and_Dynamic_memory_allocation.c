@@ -87,6 +87,7 @@ void findid(student *s, int count)
     {
         if (s[i].id == id)
         {
+            //Name: Vansh S kataria , Roll no: 16010124145
             printf("Student found!\n");
             display(&s[i]);
             return;
