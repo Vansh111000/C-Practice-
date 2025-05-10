@@ -73,7 +73,7 @@ int peek()
     return stack[top];
 }
 
-//Function for display 
+//Function for display ok
 void display()
 {
     if (top == -1)
