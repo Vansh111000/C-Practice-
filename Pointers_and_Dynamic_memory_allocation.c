@@ -96,7 +96,7 @@ void findid(student *s, int count)
 //name:Vansh s kataria , Roll no :16010124145
     printf("No student found with ID %d.\n", id);
 }
-//for
+//for update
 void update(student *s, int count)
 {
     int id;
