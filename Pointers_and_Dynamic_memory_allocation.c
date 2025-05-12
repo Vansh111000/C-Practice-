@@ -116,7 +116,7 @@ void update(student *s, int count)
 
     printf("No student found with ID %d.\n", id);
 }
-//function f
+//function for delete
 void delete_student(student **s, int *count)
 {
     int id;
