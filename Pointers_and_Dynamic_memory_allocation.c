@@ -41,8 +41,6 @@ functionalities.
 #include <stdlib.h>
 #include <string.h>
 
-
-//Structure for students
 typedef struct
 {
     int id;
