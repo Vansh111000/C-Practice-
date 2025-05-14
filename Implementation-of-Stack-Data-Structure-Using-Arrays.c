@@ -51,7 +51,7 @@ void push(int value)
     stack[++top] = value;
     printf("%d pushed to stack.\n", value);
 }
-// the pop
+// the pop function
 int pop()
 {
     if (top == -1)
