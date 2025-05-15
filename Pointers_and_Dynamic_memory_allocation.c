@@ -50,7 +50,7 @@ typedef struct
 } student;
 
 //name:Vansh s kataria , Roll no :16010124145
-// nothing to
+// nothing to say
 
 void add(student *s)
 {
