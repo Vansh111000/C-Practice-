@@ -3,6 +3,7 @@
 
 
 /* String Copy We will use manual way as it is more good
+has con that we can't add the copy like append it but nvm we have strcat for that
 */
 
 void stringCopy(char *dest, const char *src)
@@ -19,7 +20,7 @@ void stringCopy(char *dest, const char *src)
 int main()
 {
     char msg1[] = "ESP-IDF";
-    char msg2[20];
+    char msg2[50] = "Hello ";
     stringCopy(msg2, msg1);
     printf("%s",msg2);
 
