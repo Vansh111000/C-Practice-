@@ -3,7 +3,6 @@
 #include <stdlib.h>
 #include <stdarg.h>
 
-
 int fibonnaci(int n)
 {
     if (n == 0)
