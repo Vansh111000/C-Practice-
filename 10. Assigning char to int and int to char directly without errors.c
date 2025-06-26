@@ -6,6 +6,7 @@
 /*
 1)char to int
 2)int to char
+there are more
 */
 //1
 /*
